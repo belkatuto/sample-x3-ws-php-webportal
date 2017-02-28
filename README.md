@@ -1,4 +1,7 @@
-# PHP web portal connected to X3 via SOAP  & REST web services
+# PHP web portal connected to X3
+
+## Training WS level 2
+
 
 ## Objectives
 
@@ -13,6 +16,12 @@ From a single portal php how can we use :
 * [Howto pdf](https://github.com/Sage-ERP-X3/sample-x3-ws-php-webportal/blob/master/doc/pdf/Create_a_WebPortal_SageX3_WebServices.pdf).
 	
 * [Howto md](https://github.com/Sage-ERP-X3/sample-x3-ws-php-webportal/blob/master/doc/md/Create_a_WebPortal_SageX3_WebServices.md).
+
+## Setup X3
+
+* Install patch X3 SRC_SVG_WEB_PHP_YYYYMMDD_NN from PATCX3
+* Create manually the web service YOITM (object ITM)
+* Publish the web services YOSOH and YITM
 
 ## Features
 
