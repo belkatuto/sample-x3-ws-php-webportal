@@ -15,7 +15,8 @@ class ModelX3 {
 	 */
 	private $callContext = array ();
 	function __construct() {
-		$wsdl = Config::$WSDL;
+		//$wsdl = Config::$WSDL;
+		$wsdl = Config::$SERVER.":".Config::$PORT."/soap-wsdl/syracuse/collaboration/syracuse/CAdxWebServiceXmlCC?wsdl";
 		// $options = array();
 		// foreach($this->classmap as $key => $value) {
 		// $options['classmap'][$key] = $value;

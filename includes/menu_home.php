@@ -39,6 +39,16 @@
 						
 					</ul>
 				</li>
+				<li class="dropdown"><a href="#" class="dropdown-toggle"
+					data-toggle="dropdown" role="button" aria-expanded="false">Tools X3
+						<span class="caret"></span>
+				</a>
+					<ul class="dropdown-menu" role="menu">
+
+						<li><a href="page_ws_rest_hello.php">WS REST X3 - Hello</a></li>
+						
+					</ul>
+				</li>
 			</ul>
 
 		</div>
