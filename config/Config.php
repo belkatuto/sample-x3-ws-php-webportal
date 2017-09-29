@@ -2,7 +2,7 @@
 class Config {
 	
 	// General
-	public static $SERVER				= "http://x3erpv11eapvm";
+	public static $SERVER				= "http://x3erpv11vm";
 	public static $PORT					= "8124";
 	public static $CODE_USER 			= "admin";
 	public static $PASSWORD 			= "admin";
@@ -20,7 +20,7 @@ class Config {
 	public static $WS_PRODUCT 			= "YOITM";
 	
 	// SOAP REST
-	public static $ENDPOINT				= "X3ERPV11EAP_SEED";
+	public static $ENDPOINT				= "X3ERPV11_SEED";
 	
 }
 ?>
