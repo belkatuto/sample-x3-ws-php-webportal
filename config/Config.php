@@ -4,8 +4,8 @@ class Config {
 	// General
 	public static $SERVER				= "http://x3erpv11vm";
 	public static $PORT					= "8124";
-	public static $CODE_USER 			= "admin";
-	public static $PASSWORD 			= "admin";
+	public static $CODE_USER 			= "...";
+	public static $PASSWORD 			= "...";
 	
 	// Web portail
 	public static $WEB_SITE_LOGIN 		= "websage";

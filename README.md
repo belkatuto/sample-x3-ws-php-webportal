@@ -11,21 +11,15 @@ From a single portal php how can we use :
 * X3 REST web service Hello
 
 
-## Documentation
-
-* [Howto pdf](https://github.com/Sage-ERP-X3/sample-x3-ws-php-webportal/blob/master/doc/pdf/Create_a_WebPortal_SageX3_WebServices.pdf).
-	
-* [Howto md](https://github.com/Sage-ERP-X3/sample-x3-ws-php-webportal/blob/master/doc/md/Create_a_WebPortal_SageX3_WebServices.md).
-
 ## Setup X3
 
-* Install patch X3 SRC_SVG_WEB_PHP_YYYYMMDD_NN from PATCX3
+* Install patch X3 SRC_SVG_WEB_PHP_YYYYMMDD_NN from PATCHX3
 * Create manually the web service YOITM (object ITM)
 * Publish the web services YOSOH and YITM
 
 ## Features
 
-* Only php source with EDI Eclipse php Neon
+* Only php source with Eclipse IDE for PHP Developers. Version 2018-09 (4.9.0)
 
 * No X3 sources
 
